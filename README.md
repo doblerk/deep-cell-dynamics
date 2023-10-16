@@ -7,12 +7,12 @@ This repository contains an implementation of the Vector Quantized-Variational A
 Input images / Reconstructed images
 
 <p float="left">
-  <img src="res/originals.gif" title="Input images" width="500">
-  <img src="res/reconstructions.gif" title="Reconstructed images" width="500">
+  <img src="res/originals.gif" width="500">
+  <img src="res/reconstructions.gif" width="500">
 </p>
 
-2D UMAP embedding of the discrete latent space: \
-<p align="center">
+2D UMAP embedding of the discrete latent space:
+<p align="center" width="100%">
   <img
     src="res/umap.png"
     alt="alt-text"
