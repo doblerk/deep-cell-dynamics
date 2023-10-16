@@ -5,7 +5,8 @@
 This repository contains an implementation of the Vector Quantized-Variational AutoEncoder (VQ-VAE) [1] in order to learn features from phase-contrast images of T cell interaction with adhesion molecules.
 
 Input images / Reconstructed images: \
-<img src="res/original.gif">
+<img src="res/originals.gif">
+![](https://gitlab.com/kdobler/vq-vae/-/blob/main/res/originals.gif?ref_type=heads)
 
 2D UMAP embedding of the discrete latent space: \
 <img
